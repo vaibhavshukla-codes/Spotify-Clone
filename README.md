@@ -7,7 +7,7 @@ This project mimics the basic design of Spotify’s music player interface.
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Vercel](https://spotify-clone-vaibhavshukla.vercel.app/)
+🔗 [View Live on Vercel](https://spotify-clone-eta-murex-15.vercel.app/)
 
 ---
 
