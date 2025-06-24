@@ -11,7 +11,7 @@ This project mimics the basic design of Spotify’s music player interface.
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 ![Screenshot](screenshot.png)
 
